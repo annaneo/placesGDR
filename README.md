@@ -6,6 +6,9 @@ concern the the Communist Dictatorship in Eastern Germany easily accessible via 
 
 ## Sources for the places displayed in the App
 [Linklist of the The Federal Foundation for the Study of the Communist Dictatorship in Eastern Germany](https://www.bundesstiftung-aufarbeitung.de/de/erinnern/museen-und-gedenkstaetten/linkliste)
+
 [Stiftung Berliner Mauer](https://www.stiftung-berliner-mauer.de)
+
 [Stiftung Sächsische Gedenkstätten](https://www.stsg.de)
+
 [Stiftung Brandenburgische Gedenkstätten](https://www.stiftung-bg.de)
