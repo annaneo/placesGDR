@@ -1,0 +1,86 @@
+[{
+        "id": "bernauer-strasse",
+        "name": "Gedenkstätte Berliner Mauer Bernauer Straße",
+        "city": "Berlin",
+        "address": "Bernauer Straße 111, 13355 Berlin",
+        "type": "Gedenkstätte",
+        "shortDesc": "Die Gedenkstätte Berliner Mauer und das Dokumentationszentrum erinnerm an die Teilung Berlins durch die Mauer und die Todesopfer an der Mauer. Die Außenausstellung im Gedenkstättenareal an der Bernauer Straße ist von  08:00 – 22:00 Uhr zugänglich ",
+        "description": "Die Gedenkstätte Berliner Mauer erinnert an die Teilung Berlins durch die Mauer und die Todesopfer an der Berliner Mauer. Das nationale Denkmal, ein 70 Meter langes Original-Teilstück der Grenzanlagen, wurde 1998 von der Bundesrepublik Deutschland und dem Land Berlin an der Bernauer Straße wieder errichtet (Mauerteile stammen von anderen Abschnitten) und später erweitert. Heute umfasst die Gedenkstätte auf einer Länge von 1,4 Kilometer auf dem ehemaligen Grenzstreifen neben dem Denkmal auch eine Außenausstellung, die Kapelle der Versöhnung, das Dokumentationszentrum Berliner Mauer, das Fenster des Gedenkens sowie das Besucherzentrum und eine Ausstellung im benachbarten S-Bahnhof Nordbahnhof.",
+        "descURL": "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Berliner_Mauer",
+        "url": "https://www.stiftung-berliner-mauer.de/de/gedenkstaette-berliner-mauer",
+        "imageCredit": "HerrAdams",
+        "lat": 52.535,
+        "long": 13.389722,
+        "openDay": [
+            "Mi",
+            "Do",
+            "Fr",
+            "Sa",
+            "So"
+        ],
+        "openTime": [
+            "11:00 - 17:00"
+        ],
+        "price": "none"
+    },
+    {
+        "id": "stasi-museum",
+        "name": "Stasi-Museum",
+        "city": "Berlin",
+        "address": "Normannenstraße 20, Haus 1, 10365 Berlin",
+        "type": "Museum",
+        "shortDesc": "Das Stasimuseum auf dem ehemaligen Gelände der Zentrale des Ministeriums für Staatssicherheit informiert über die Staatssicherheit und die Auswirkungen ihrer Tätigkeit auf die Bevölkerung der DDR.",
+        "description": "Die Forschungs- und Gedenkstätte Normannenstraße im Haus 1 der ehemaligen Zentrale des Ministeriums für Staatssicherheit (MfS, Stasi) ist eine Einrichtung zur Information über die Tätigkeit der Staatssicherheit, über Widerstandsbewegungen und Opposition in der DDR und über Aspekte des politischen Systems der DDR. In den ehemaligen, im Original erhaltenen Arbeitsräumen des Ministers Erich Mielke und seiner Mitarbeiter wurde eine ständige Ausstellung (Stasi-Museum) eingerichtet. Träger ist der Verein Antistalinistische Aktion Berlin-Normannenstraße e. V. (ASTAK), der im Sommer 1990 von Bürgerrechtlern in Berlin gegründet wurde. Sein Ziel ist die Förderung des Ausbaus der Gedenkstätte als Zentrum zur Sammlung, Bewahrung, Dokumentation, Aufarbeitung und Ausstellung von Sachzeugnissen sowie themenbezogener Forschungsarbeit zur DDR. Leiter der Forschungs- und Gedenkstätte ist Jörg Drieselmann. ",
+        "descURL": "https://de.wikipedia.org/wiki/Forschungs-_und_Gedenkst%C3%A4tte_Normannenstra%C3%9Fe",
+        "url": "https://www.stasimuseum.de/",
+        "imageCredit": "DieNormativität",
+        "lat": 52.514444,
+        "long": 13.4875,
+        "openDay": [
+            "Mo",
+            "Di",
+            "Mi",
+            "Do",
+            "Fr",
+            "Sa",
+            "So"
+        ],
+        "openTime": [
+            "10:00 - 18:00",
+            "10:00 - 18:00",
+            "10:00 - 18:00",
+            "10:00 - 18:00",
+            "10:00 - 18:00",
+            "11:00 - 18:00",
+            "11:00 - 18:00"
+        ],
+        "price": "8€ (Erwachsene), 6€ (Student:innen, Azubis, Arbeitsuchende, Schwerbeschädigte, Rentner:innen), 4€ (Schüler:innen)"
+    },
+    {
+        "id": "marienborn",
+        "name": "Gedenkstätte Deutsche Teilung Marienborn",
+        "city": "Marienborn",
+        "address": "An der Bundesautobahn 2, 39365 Marienborn",
+        "type": "Gedenkstätte",
+        "shortDesc": "Die Gedenkstätte Deutsche Teilung Marienborn am größten Grenzübergang der ehemaligen innerdeutschen Grenze",
+        "description": "Der Grenzübergang Helmstedt/Marienborn war der größte und bedeutendste Grenzübergang an der innerdeutschen Grenze während der deutschen Teilung und bestand aus dem „Kontrollpunkt Helmstedt“ in der westdeutschen Kreisstadt Helmstedt und der „Grenzübergangsstelle Marienborn“ (GÜSt) in der ostdeutschen Gemeinde Marienborn. Wegen der geografischen Nähe zu Berlin wurde die Hauptlast des Transitverkehrs zwischen Westdeutschland und West-Berlin über diesen Grenzübergang abgewickelt. Außerdem diente er dem Reiseverkehr in die DDR, nach Polen und anderen Ostblock-Staaten. Er bestand zwischen 1945 und 1990 und regelte den Grenzverkehr auf der seit 1975 im Westen so benannten Autobahn 2. Am 13. August 1996 wurde auf dem Gelände der ehemaligen Grenzübergangsstelle die 7 1⁄2 Hektar große Gedenkstätte Deutsche Teilung Marienborn eröffnet. Betreiber der Dokumentationsstätte ist das Land Sachsen-Anhalt. Die Besucher können bei freiem Eintritt das großräumige Gelände mit den verschiedenen Einrichtungen, wie Passkontrolle, Pkw-Einreise, Kontrollbox-Ausreise, Kommandoturm, selbst oder im Rahmen von Führungen erkunden. Im ehemaligen Stabsgebäude wird eine Ausstellung präsentiert.",
+        "descURL": "https://de.wikipedia.org/wiki/Grenz%C3%BCbergang_Helmstedt/Marienborn#Gedenkst%C3%A4tte_Deutsche_Teilung_Marienborn",
+        "url": "https://gedenkstaette-marienborn.sachsen-anhalt.de/startseite/",
+        "imageCredit": "Axel Hindemith",
+        "lat": 52.21882,
+        "long": 11.05932,
+        "openDay": [
+            "Mo",
+            "Di",
+            "Mi",
+            "Do",
+            "Fr",
+            "Sa",
+            "So"
+        ],
+        "openTime": [
+            "10:00 – 17:00"
+        ],
+        "price": "0"
+    }
+]

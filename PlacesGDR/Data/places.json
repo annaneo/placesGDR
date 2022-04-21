@@ -1,0 +1,211 @@
+[
+	{
+		"id": "checkpoint-charlie",
+		"name": "Checkpoint Charlie",
+		"city": "Berlin",
+        "type": "Historischer Ort",
+		"description": "Der Checkpoint Charlie war einer der Berliner Grenzübergänge durch die Berliner Mauer zwischen 1961 und 1990. Er verband in der Friedrichstraße zwischen Zimmerstraße und Kochstraße (beim gleichnamigen U-Bahnhof) den sowjetischen mit dem amerikanischen Sektor und damit den Ost-Berliner Bezirk Mitte mit dem West-Berliner Bezirk Kreuzberg. Der Kontrollpunkt wurde im August/September 1961 infolge des Mauerbaus von den West-Alliierten eingerichtet, um den Angehörigen ihres Militärpersonals weiterhin das Überschreiten der Sektorengrenze zu ermöglichen, wobei sie registriert und belehrt wurden. Kontrollen aller anderen Besucher Ost-Berlins fanden, wie überall auf westlicher Seite, auch am Checkpoint Charlie nicht statt.",
+        "url": "https://www.visitberlin.de/de/checkpoint-charlie",
+		"imageCredit": "Lyricmac",
+		"lat": 52.507446,
+		"long": 13.390389,
+		"keywords": [
+			"Gedenkstätte",
+			"Grenze",
+			"kostenlos"
+		]
+	},
+    {
+        "id": "bernauer-strasse",
+        "name": "Gedenkstätte Berliner Mauer Bernauer Straße",
+        "city": "Berlin",
+        "type": "Gedenkstätte",
+        "description": "Die Gedenkstätte Berliner Mauer erinnert an die Teilung Berlins durch die Mauer und die Todesopfer an der Berliner Mauer. Das nationale Denkmal, ein 70 Meter langes Original-Teilstück der Grenzanlagen, wurde 1998 von der Bundesrepublik Deutschland und dem Land Berlin an der Bernauer Straße wieder errichtet (Mauerteile stammen von anderen Abschnitten) und später erweitert. Heute umfasst die Gedenkstätte auf einer Länge von 1,4 Kilometer auf dem ehemaligen Grenzstreifen neben dem Denkmal auch eine Außenausstellung, die Kapelle der Versöhnung, das Dokumentationszentrum Berliner Mauer, das Fenster des Gedenkens sowie das Besucherzentrum und eine Ausstellung im benachbarten S-Bahnhof Nordbahnhof.",
+        "url": "https://www.stiftung-berliner-mauer.de/de/gedenkstaette-berliner-mauer",
+        "imageCredit": "HerrAdams",
+        "lat": 52.535,
+        "long": 13.389722,
+        "keywords": [
+            "Gedenkstätte",
+            "kostenlos",
+            "Grenze"
+        ]
+    },
+	{
+		"id": "stasi-museum",
+		"name": "Stasi-Museum",
+		"city": "Berlin",
+        "type": "Museum",
+		"description": "Die Forschungs- und Gedenkstätte Normannenstraße im Haus 1 der ehemaligen Zentrale des Ministeriums für Staatssicherheit (MfS, Stasi) ist eine Einrichtung zur Information über die Tätigkeit der Staatssicherheit, über Widerstandsbewegungen und Opposition in der DDR und über Aspekte des politischen Systems der DDR. In den ehemaligen, im Original erhaltenen Arbeitsräumen des Ministers Erich Mielke und seiner Mitarbeiter wurde eine ständige Ausstellung (Stasi-Museum) eingerichtet. Träger ist der Verein Antistalinistische Aktion Berlin-Normannenstraße e. V. (ASTAK), der im Sommer 1990 von Bürgerrechtlern in Berlin gegründet wurde. Sein Ziel ist die Förderung des Ausbaus der Gedenkstätte als Zentrum zur Sammlung, Bewahrung, Dokumentation, Aufarbeitung und Ausstellung von Sachzeugnissen sowie themenbezogener Forschungsarbeit zur DDR. Leiter der Forschungs- und Gedenkstätte ist Jörg Drieselmann. ",
+        "url": "https://www.stasimuseum.de",
+		"imageCredit": "DieNormativität",
+		"lat": 3000,
+		"long": 141,
+		"keywords": [
+			"Gedenkstätte",
+			"kostenlos",
+			"Grenze"
+		]
+	},
+	{
+		"id": "hohenschoenhausen",
+		"name": "Gedenkstätte Berlin-Hohenschönhausen",
+		"city": "Berlin",
+        "type": "Gedenkstätte",
+		"description": "Die Gedenkstätte Berlin-Hohenschönhausen befindet sich auf dem Gelände der ehemaligen zentralen Untersuchungshaftanstalt des Ministeriums für Staatssicherheit der DDR im Berliner Bezirk Lichtenberg. Das 1945 eingerichtete ursprüngliche Gefängnis des sowjetischen NKWD wurde 1946 zur Zentralen Untersuchungshaftanstalt der sowjetischen Geheimpolizei. 1951 wurde es abschließend an die DDR übergeben, die es bis 1989 als „Zentrales Untersuchungsgefängnis der Staatssicherheit“ nutzte. Im Zuge der Wiedervereinigung Deutschlands wurde es 1990 geschlossen. In der Haftanstalt wurden vor allem politische Gefangene, darunter fast alle bekannten DDR-Oppositionellen, inhaftiert und physisch und psychisch gefoltert. Auf damaligen Stadtplänen war die Haftanstalt nicht verzeichnet, 1992 wurden die Gefängnisgebäude unter Denkmalschutz gestellt. Die Gedenkstätte nahm 1994 auf dem Gefängnisgelände ihren Betrieb auf, seit dem Jahr 2000 ist sie eine Berliner Stiftung öffentlichen Rechts. Die Gedenkstätte ist Mitglied der Platform of European Memory and Conscience.",
+        "url": "https://www.stiftung-hsh.de",
+		"imageCredit": "Anagoria",
+		"lat": 3125,
+		"long": 195,
+		"keywords": [
+			"Gedenkstätte",
+			"Gefängnis",
+            "kostenlos",
+			"SBZ"
+		]
+	},
+	{
+		"id": "lindenstr",
+		"name": "Mahn- und Gedenkstätte Lindenstrasse 54",
+		"city": "Potsdam",
+        "type": "Gedenkstätte",
+		"description": "",
+        "url": "https://www.gedenkstaette-lindenstrasse.de",
+		"imageCredit": "",
+		"lat": 2760,
+		"long": 270,
+		"keywords": [
+			"Gedenkstätte",
+			"kostenlos",
+			"Accommodation"
+		]
+	},
+	{
+		"id": "zuchthaus-cottbus",
+		"name": "Gedenkstätte Zuchthaus Cottbus",
+		"city": "Cottbus",
+        "type": "Gedenkstätte",
+		"description": "",
+        "url": "https://www.menschenrechtszentrum-cottbus.de/gedenkstaette.html",
+		"imageCredit": "",
+		"lat": 3300,
+		"long": 170,
+		"keywords": [
+			"Gedenkstätte",
+            "Gefängnis"
+		]
+	},
+	{
+		"id": "marienborn",
+		"name": "Gedenkstätte Deutsche Teilung Marienborn",
+		"city": "Marienborn",
+        "type": "Gedenkstätte",
+		"description": "",
+        "url": "https://gedenkstaette-marienborn.sachsen-anhalt.de/startseite",
+		"imageCredit": "",
+		"lat": 2000,
+		"long": 103,
+		"keywords": [
+			"Family",
+			"Beginners",
+			"Accommodation"
+		]
+	},
+	{
+		"id": "stasi-archiv-rostock",
+		"name": "Stasi-Unterlagen-Archiv Rostock",
+		"city": "Rostock",
+        "type": "Archiv",
+		"description": "Die Dokumentations- und Gedenkstätte (DuG) in der ehemaligen Untersuchungshaftanstalt der Bezirksverwaltung der Stasi in Rostock thematisiert das Wirken des Ministeriums für Staatssicherheit (MfS) der DDR und erinnert an seine Opfer. Sie ist eine der am besten erhaltenen Untersuchungshaftanstalten des MfS. Die DuG ist eingebettet in das Dokumentationszentrum des Landes Mecklenburg-Vorpommern für die Opfer der Diktaturen in Deutschland und wurde bis August 2017 durch die Außenstelle Rostock des Bundesbeauftragten für die Stasi-Unterlagen (BStU) in Kooperation der Universität Rostock betrieben. Zwischen 2017 und 2021 war die DuG wegen Sanierung geschlossen. 2021 übernahm die Landeszentrale für politische Bildung Mecklenburg-Vorpommern die Trägerschaft.",
+        "url": "https://www.stasi-unterlagen-archiv.de/archiv/standorte/rostock",
+		"imageCredit": "Sir James",
+		"lat": 3100,
+		"long": 128,
+		"keywords": [
+			"Archiv",
+			"Stasi",
+			"Kostenlos"
+		]
+	},
+	{
+		"id": "bautzen",
+		"name": "Gedenkstätte Bautzen",
+		"city": "Bautzen",
+        "type": "Gedenkstätte",
+		"description": "Die Haftanstalten Bautzen I, bekannt als „Gelbes Elend“, und Bautzen II, das Stasi-Gefängnis, wurden in der Vergangenheit zur Ausschaltung politischer Gegner genutzt. Dies geschah während des nationalsozialistischen Regimes, der sowjetischen Besatzung und in der DDR-Diktatur.",
+        "url": "https://www.stsg.de/cms/bautzen/startseite",
+		"imageCredit": "",
+		"lat": 3200,
+		"long": 123,
+		"keywords": [
+			"Gedenkstätte",
+			"Gefängnis",
+			"Stasi",
+			"kostenlos"
+		]
+	},
+	{
+		"id": "runde-ecke",
+		"name": "Gedenkstätte Museum in der Runden Ecke mit dem Museum im Stasi-Bunker",
+		"city": "Leipzig",
+        "type": "Museum",
+		"description": "Die Gedenkstätte Museum in der „Runden Ecke“ ist ein im ehemaligen Sitz der Bezirksverwaltung für Staatssicherheit am Dittrichring in Leipzig beheimatetes Museum über die Geschichte, Struktur und Arbeitsweise des Ministeriums für Staatssicherheit (MfS) in der DDR.",
+        "url": "http://www.runde-ecke-leipzig.de/stasi-bunker.html",
+		"imageCredit": "Appaloosa",
+		"lat": 3330,
+		"long": 111,
+		"keywords": [
+			"Stasi",
+			"Gedenkstätte",
+			"Museum",
+            "Bunker",
+			"kostenlos"
+		]
+	},
+	{
+		"id": "zeithain",
+		"name": "Gedenkstätte Ehrenhain Zeithain",
+		"city": "Zeithain",
+        "type": "Gedenkstätte",
+		"description": "",
+        "url": "https://www.stsg.de/cms/zeithain/startseite",
+		"imageCredit": "",
+		"lat": 3000,
+		"long": 54,
+		"keywords": [
+			"Gedenkstätte",
+			"kostenlos"
+		]
+	},
+	{
+		"id": "torgau",
+		"name": "Dokumentations- und Informationszentrum (DIZ) Torgau",
+		"city": "Torgau",
+        "type": "Museum",
+        "url": "https://www.stsg.de/cms/torgau/startseite",
+		"description": "",
+		"imageCredit": "",
+		"lat": 2100,
+		"long": 44,
+		"keywords": [
+			"kostenlos",
+			"Gefängnis"
+		]
+	},
+	{
+		"id": "marienfelde",
+		"name": "Erinnerungsstätte Notaufnahmelager Marienfelde",
+		"city": "Berlin",
+        "type": "Gedenkstätte",
+		"description": "",
+        "url": "https://stiftung-berliner-mauer.de/de/notaufnahmelager-marienfelde",
+		"imageCredit": "",
+		"lat": 2200,
+		"long": 200,
+		"keywords": [
+			"Grenze",
+			"Aufnahmelager",
+			"Erinnerungsstätte"
+		]
+	}
+]
