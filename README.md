@@ -12,3 +12,7 @@ concern the the Communist Dictatorship in Eastern Germany easily accessible via 
 [Stiftung Sächsische Gedenkstätten](https://www.stsg.de)
 
 [Stiftung Brandenburgische Gedenkstätten](https://www.stiftung-bg.de)
+
+## License 
+
+The Software is released under the [GNU General Public License v3.0](https://github.com/annaneo/placesGDR/blob/main/LICENSE)
