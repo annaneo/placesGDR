@@ -1,13 +1,8 @@
-//
-//  OrteDDRGeschichteApp.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 18.01.22.
-//
-
 import SwiftUI
 
 @main
+
+/// Places GDR APP
 struct OrteDDRGeschichteApp: App {
     var body: some Scene {
         WindowGroup {

@@ -1,12 +1,6 @@
-//
-//  FavoritePlaces.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 16.03.22.
-//
-
 import Foundation
 
+/// Favorite Places
 class FavoritePlaces: ObservableObject {
     private var places: Set<String>
     private let saveKey = "Favoriten"

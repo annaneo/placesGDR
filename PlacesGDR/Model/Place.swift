@@ -1,12 +1,6 @@
-//
-//  Resort.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 20.01.22.
-//
-
 import Foundation
 
+/// Place (museum, monument)
 struct Place: Codable, Identifiable {
     let id: String
     let name: String

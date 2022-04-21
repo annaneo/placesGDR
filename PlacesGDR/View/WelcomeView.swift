@@ -1,12 +1,6 @@
-//
-//  WelcomeView.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 20.01.22.
-//
-
 import SwiftUI
 
+// TODO: is welcome view a good feature?
 struct WelcomeView: View {
     var body: some View {
         VStack {

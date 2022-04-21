@@ -1,22 +1,17 @@
-//
-//  MapView.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 18.02.22.
-//
-
 import SwiftUI
 import MapKit
 
+/// City
 struct City: Identifiable {
     let id = UUID()
     let name: String
     let coordinate: CLLocationCoordinate2D
 }
 
+/// MapView with current location of user and all places
 struct MapView: View {
     
-    // also: showsUserLocation
+    // TODO: also: showsUserLocation
 
     @State private var region = MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 51.507222, longitude: -0.1275), span: MKCoordinateSpan(latitudeDelta: 10, longitudeDelta: 10))
 

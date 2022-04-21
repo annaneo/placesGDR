@@ -1,12 +1,6 @@
-//
-//  PlaceView.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 18.02.22.
-//
-
 import SwiftUI
 
+/// View of one specific place (museum, monument...)
 struct PlaceView: View {
     let place: Place
     
@@ -34,6 +28,7 @@ struct PlaceView: View {
                 Text("© \(place.imageCredit)")
                     .font(.footnote)
                 
+                // Select / deselect favorite place
                 // TODO: make heart (filled and empty instead text)
                 Button(favorites.contains(place) ? "Favorit entfernen" : "Als Favorit markieren") {
                     if favorites.contains(place) {

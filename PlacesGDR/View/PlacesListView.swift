@@ -1,14 +1,9 @@
-//
-//  ContentView.swift
-//  PlacesGDR
-//
-//  Created by Anna Neovesky on 18.01.22.
-//
-
 import SwiftUI
 
+/// List of all places
 struct PlacesListView: View {
     
+    // Load and decode JSOn file (currently shortened version for development)
     let places: [Place] = Bundle.main.decode("places-develop.json")
     
     @State private var searchText = ""
