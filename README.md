@@ -5,7 +5,8 @@ Numerous memorials and museums offer access and information about the history of
 The app aims to make these historic places, monuments and memorial places and museums easily accessible via map and list.
 
 |![A remnant of the Berlin Wall that has been preserved as part of the Berlin Wall memorial site](./PlacesGDR/Assets.xcassets/Berliner-Mauer-Matthias-Süßen-CC-BY-SA-4.imageset/Berliner-Mauer-Matthias-Süßen-CC-BY-SA-4.jpg)|
-|Remnant of the Berlin Wall as part of the memorial site ©  Matthias Süßen [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)|
+|---|
+|Remnant of the Berlin Wall as part of the memorial site © Matthias Süßen [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)|
 
 
 ## Sources for the places displayed in the App
